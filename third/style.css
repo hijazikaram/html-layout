@@ -1,0 +1,49 @@
+
+body {
+ margin: 0;
+ padding: 0;
+}
+
+html {
+ box-sizing: border-box;
+}
+
+​*, *​:before, *:after {
+ box-sizing: inherit;
+}header {
+  width: 100%;
+  background: grey;
+  height: 100px;
+  margin: 0;
+}
+.div-1 {
+width: 70px;
+height: 70px;
+margin: 15px;
+background: blue;
+display: inline-block;
+}
+.div-2 {
+  width: 100%;
+  height: 200px;
+  background: blue;
+}
+.div-3 {
+  width: 100%;
+  height: 200px;
+  background: green;
+}
+.div-4 {
+  width: 100%;
+  height: 200px;
+  background: red;
+}
+.div-5 {
+  width: 100%;
+  height: 200px;
+  background: yellow;
+}
+h2 {
+  text-align: center;
+  margin: 50px;
+}
